@@ -39,7 +39,10 @@ Manual identification of plant species is time-consuming and requires expert kno
 - Sample dataset included
 
 ## 📂 Dataset
-Due to size and licensing constraints, the full dataset is not included. However, sample images are provided in the sample_images/ folder for demonstration purposes. If you want the full dataset, feel free to contact me.
+The model was trained on a dataset of 7,000+ leaf images covering multiple plant species.
+Due to size and licensing constraints, the full dataset is not included in this repository. However, a few sample images are provided in the sample_images/ folder for testing and demonstration purposes.
+
+If you’re interested in accessing the full dataset, feel free to contact me directly.
 
 ## 🚀 Getting Started
 
